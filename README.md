@@ -5,4 +5,5 @@ go to file manager
 upload php and css file 
 fil up from 
 hit submit button
-#enjoy
+# keep enjoy
+#chack victim email 
